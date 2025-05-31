@@ -1,0 +1,6 @@
+Date,Invoice_ID,Customer_Name,Product,Category,Quantity,Price,Total_Amount,Payment_Method
+2025-05-01,INV001,John Doe,Camera,Electronics,1,500.0,500.0,Credit Card
+2025-05-01,INV002,Jane Smith,Tripod,Accessories,2,50.0,100.0,Cash
+2025-05-02,INV003,Alice Brown,Lighting Kit,Accessories,1,150.0,150.0,Online
+2025-05-02,INV004,Bob White,Memory Card,Accessories,4,25.0,100.0,Credit Card
+2025-05-03,INV005,Charlie Black,Lens,Electronics,1,300.0,300.0,Cash
